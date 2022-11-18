@@ -1,0 +1,2 @@
+# mywebsie
+My static website
